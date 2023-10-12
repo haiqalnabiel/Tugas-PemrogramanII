@@ -1,0 +1,1 @@
+scoreentry.Mahasiswa
